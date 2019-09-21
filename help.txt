@@ -1,0 +1,5 @@
+```
+Command List:
+    roll   Rolls dice. Defaults to d20.
+    heyilney   Responds to a yes/no query.
+```
